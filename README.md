@@ -1,2 +1,2 @@
 # CAGAN_full
-update
+CLIP-based Adaptive Graph Attention Network for unsupervised Multi-modal hashing retrieval.
